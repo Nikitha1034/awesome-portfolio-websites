@@ -4,30 +4,18 @@ AOS.init();
 
 const moocs = document.querySelector(".moocs");
 const moocscards = [
+  
+
   {
     title: "Data Science",
     cardImage: "assets/images/education-page/coursera2.svg",
     moocLink: "https://www.coursera.org/browse/data-science",
   },
-  {
-    title: "Cryptography",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
-  },
+
   {
     title: "Machine Learning",
     cardImage: "assets/images/education-page/coursera2.svg",
     moocLink: "https://www.coursera.org/learn/machine-learning",
-  },
-  {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
   },
   {
     title: "Javascript",
@@ -56,15 +44,15 @@ const moocscards = [
     moocLink: "https://www.coursera.org/learn/server-side-nodejs",
   },
   {
-    title: "XML-AJAX",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
-  },
-  {
     title: "Data Structures & Algorithms",
     cardImage: "assets/images/education-page/udacity.svg",
     moocLink:
       "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
+  },
+  {
+    title: "AWS Solutions Architect - Associate",
+    cardImage: "assets/images/education-page/AWS.png",
+    moocLink: "https://www.credly.com/badges/c403fd7a-bece-4650-bbd3-13d69697e3d6",
   },
 ];
 
