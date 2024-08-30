@@ -29,9 +29,17 @@ const exp = [
     title: "Project Intern",
     cardImage: "assets/images/experience-page/RedHat.jpg",
     place: "Red Hat",
-    time: "(Jan 2019 - Jan 2020)",
+    time: "(Jan 2020 - Aug 2020)",
     desp: "<li>Tasked with deploying virtual machines, utilizing AWS for EC2 instances, managing IPs (both static and dynamic), and effectively launching web applications with serverless architecture.</li><li>Additionally, gained hands-on experience with Microsoft Azure cloud services and developed a foundational understanding of cloud service models including IaaS, PaaS, and SaaS.</li>"
+  },
+  {
+    title: "Data Engineering Intern",
+    cardImage: "assets/images/experience-page/Afluence.jpg",
+    place: "Affluence Infosystems",
+    time: "(May 2019 - Aug 2019)",
+    desp: "<li>Optimized data pipelines handling 5TB monthly, reducing processing time by 20%, and automated 70% of tasks using AWS Lambda, cutting manual intervention by 40%</li><li>Executed SQL and Python scripts on datasets up to 10 million records and maintained ETL jobs with AWS Glue, enhancing data reliability and efficiency.</li>"
   }
+
 ];
 
 const showCards2 = () => {
