@@ -26,18 +26,11 @@ const exp = [
     desp: "<li>On Call Dispatch Development Team: Fixed 30-50 percent of bugs on both the front-end and back-end as a member of the On Call Dispatch development team, using tools like Eclipse and NodeJs</li><li>Front-end Development: Developed the front-end of applications using JavaScript and React JS, resulting in a 20 percent improvement in reload time and a seamless, responsive user experience.</li><li>Back-end Development: Contributed to back-end development by setting up servers, creating APIs, integrating databases, solving 6-7 bugs a month, and improving the organization’s agile processes.</li><li>Technical Stack: Used JavaScript, React JS, and CSS for front-end development, and PowerShell for automation tasks, improving 7-10 features in the project.</li>",
   },
   {
-    title: "Project Intern",
-    cardImage: "assets/images/experience-page/RedHat.jpg",
-    place: "Red Hat",
-    time: "(Jan 2020 - Aug 2020)",
-    desp: "<li>Tasked with deploying virtual machines, utilizing AWS for EC2 instances, managing IPs (both static and dynamic), and effectively launching web applications with serverless architecture.</li><li>Additionally, gained hands-on experience with Microsoft Azure cloud services and developed a foundational understanding of cloud service models including IaaS, PaaS, and SaaS.</li>"
-  },
-  {
-    title: "Data Engineering Intern",
+    title: "Software Engineering Intern",
     cardImage: "assets/images/experience-page/Afluence.jpg",
     place: "Affluence Infosystems",
-    time: "(May 2019 - Aug 2019)",
-    desp: "<li>Optimized data pipelines handling 5TB monthly, reducing processing time by 20%, and automated 70% of tasks using AWS Lambda, cutting manual intervention by 40%</li><li>Executed SQL and Python scripts on datasets up to 10 million records and maintained ETL jobs with AWS Glue, enhancing data reliability and efficiency.</li>"
+    time: "(May 2019 - Dec 2020)",
+    desp: "<li>Developed and optimized API layers using Kotlin, SpringBoot, and GraphQL, while creating schema models for ElasticSearch and validation tools for Oracle and Postgres databases, improving system performance and data accuracy.</li><li>Enhanced observability by adding loggers, building Splunk dashboards, and utilizing Kafka and Podman for microservices. Improved code coverage with an integration testing framework.</li><li>Built Kafka producer/consumer libraries, streamlining microservice onboarding, and won Intuits Spotlight award for significant code contributions.</li?"
   }
 
 ];
