@@ -16,7 +16,7 @@ const exp = [
     cardImage: "assets/images/experience-page/TA.jpg",
     place: "University of North Carolina at Charlotte",
     time: "(Jan 2024 - May 2024)",
-    desp: "<li>Assisted in teaching ITCS 6114 (Algorithm & Data Structures), grading assignments, and leading study sessions.</li><li>Guided students in Java-based projects, focusing on algorithm optimization and data structure implementation.</li><li>Provided individualized support, improving student comprehension of complex topics like dynamic programming and graph theory.• Assisted in teaching ITCS 6114 (Algorithm & Data Structures), grading assignments, and leading study sessions. • Guided students in Java-based projects, focusing on algorithm optimization and data structure implementation. • Provided individualized support, improving student comprehension of complex topics like dynamic programming and graph theory.</li>",
+    desp: "<li>Assisted in teaching ITCS 6114 (Algorithm & Data Structures), grading assignments, and leading study sessions.</li><li>Guided students in Java-based projects, focusing on algorithm optimization and data structure implementation.</li><li>Provided individualized support, improving student comprehension of complex topics like dynamic programming and graph theory.</li> ",
   },
   {
     title: "Software Engineer",
