@@ -16,7 +16,7 @@ const exp = [
     cardImage: "assets/images/experience-page/TA.jpg",
     place: "University of North Carolina at Charlotte",
     time: "(Jan 2024 - May 2024)",
-    desp: "<li>Served as a Graduate Teaching Assistant under Professor Dr. Dewan Ahmed for ITCS 6114 (Algorithm & Data Structures), responsible for grading assignments, conducting study sessions, and providing individualized student support.</li><li>Played a key role in enhancing students' understanding of advanced algorithms and data structures, thereby contributing to their academic development and success.</li>",
+    desp: "<li>Assisted in teaching ITCS 6114 (Algorithm & Data Structures), grading assignments, and leading study sessions.</li><li>Guided students in Java-based projects, focusing on algorithm optimization and data structure implementation.</li><li>Provided individualized support, improving student comprehension of complex topics like dynamic programming and graph theory.• Assisted in teaching ITCS 6114 (Algorithm & Data Structures), grading assignments, and leading study sessions. • Guided students in Java-based projects, focusing on algorithm optimization and data structure implementation. • Provided individualized support, improving student comprehension of complex topics like dynamic programming and graph theory.</li>",
   },
   {
     title: "Software Engineer",
@@ -26,11 +26,18 @@ const exp = [
     desp: "<li>On Call Dispatch Development Team: Fixed 30-50 percent of bugs on both the front-end and back-end as a member of the On Call Dispatch development team, using tools like Eclipse and NodeJs</li><li>Front-end Development: Developed the front-end of applications using JavaScript and React JS, resulting in a 20 percent improvement in reload time and a seamless, responsive user experience.</li><li>Back-end Development: Contributed to back-end development by setting up servers, creating APIs, integrating databases, solving 6-7 bugs a month, and improving the organization’s agile processes.</li><li>Technical Stack: Used JavaScript, React JS, and CSS for front-end development, and PowerShell for automation tasks, improving 7-10 features in the project.</li>",
   },
   {
+    title: "Associate Software Engineer",
+    cardImage: "assets/images/experience-page/Afluence.jpg",
+    place: "Affluence Infosystems",
+    time: "(Jan 2020 - Jun 2021)",
+    desp: "<li>Developed and optimized API layers using Kotlin, SpringBoot, and GraphQL, resulting in a 30% improvement in system performance and 20% higher data accuracy through schema models for ElasticSearch and validation tools for Oracle and Postgres databases.</li><li>Enhanced observability by adding loggers, building Splunk dashboards, and utilizing Kafka and Podman for microservices, which reduced debugging time by 40%. Improved code coverage by 35% with the integration testing framework.</li><li>Built Kafka producer/consumer libraries, reducing microservice onboarding time by 50%.</li>"
+  },
+  {
     title: "Software Engineering Intern",
     cardImage: "assets/images/experience-page/Afluence.jpg",
     place: "Affluence Infosystems",
-    time: "(May 2019 - Dec 2020)",
-    desp: "<li>Developed and optimized API layers using Kotlin, SpringBoot, and GraphQL, while creating schema models for ElasticSearch and validation tools for Oracle and Postgres databases, improving system performance and data accuracy.</li><li>Enhanced observability by adding loggers, building Splunk dashboards, and utilizing Kafka and Podman for microservices. Improved code coverage with an integration testing framework.</li><li>Built Kafka producer/consumer libraries, streamlining microservice onboarding, and won Intuits Spotlight award for significant code contributions.</li?"
+    time: "(Dec 2018 - Dec 2019)",
+    desp: "<li>Assisted in developing API endpoints using SpringBoot, contributing to backend development efforts and improving response times by 15%.</li><li>Gained experience in database management by supporting the creation of validation tools for Oracle databases, reducing error rates by 10%.</li><li>Collaborated with the team to troubleshoot and debug microservices, improving performance and functionality by 25%.</li>"
   }
 
 ];
