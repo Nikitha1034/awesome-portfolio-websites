@@ -19,7 +19,7 @@ const exp = [
     desp: "<li>Assisted in teaching ITCS 6114 (Algorithm & Data Structures), grading assignments, and leading study sessions.</li><li>Guided students in Java-based projects, focusing on algorithm optimization and data structure implementation.</li><li>Provided individualized support, improving student comprehension of complex topics like dynamic programming and graph theory.</li> ",
   },
   {
-    title: "Software Engineer",
+    title: "Software Developer",
     cardImage: "assets/images/experience-page/Hexagon.jpg",
     place: "Hexagon CCI Pvt. Ltd.",
     time: "(Aug 2021 – July 2023)",
