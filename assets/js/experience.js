@@ -30,7 +30,7 @@ const exp = [
     cardImage: "assets/images/experience-page/Afluence.jpg",
     place: "Affluence Infosystems",
     time: "(Jan 2020 - Jun 2021)",
-    desp: "<li>Developed and optimized API layers using Kotlin, SpringBoot, and GraphQL, resulting in a 30% improvement in system performance and 20% higher data accuracy through schema models for ElasticSearch and validation tools for Oracle and Postgres databases.</li><li>Enhanced observability by adding loggers, building Splunk dashboards, and utilizing Kafka and Podman for microservices, which reduced debugging time by 40%. Improved code coverage by 35% with the integration testing framework.</li><li>Built Kafka producer/consumer libraries, reducing microservice onboarding time by 50%.</li>"
+    desp: "<li>Developed and optimized API layers using Java, SpringBoot, and GraphQL, resulting in a 30% improvement in system performance and 20% higher data accuracy through schema models for ElasticSearch and validation tools for Oracle and Postgres databases.</li><li>Enhanced observability by adding loggers, building Splunk dashboards, and utilizing Kafka and Podman for microservices, which reduced debugging time by 40%. Improved code coverage by 35% with the integration testing framework.</li><li>Built Kafka producer/consumer libraries, reducing microservice onboarding time by 50%.</li>"
   },
   {
     title: "Software Engineering Intern",
