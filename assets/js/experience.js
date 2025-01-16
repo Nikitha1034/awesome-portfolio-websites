@@ -5,7 +5,7 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Technical Specialist",
+    title: "Technical Specialist | Software Engineer",
     cardImage: "assets/images/experience-page/Umbraco.jpg",
     place: "Umbraco A/S",
     time: "(May 2024 – Current)",
