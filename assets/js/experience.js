@@ -5,11 +5,11 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Technical Support Intern",
+    title: "Technical Specialist",
     cardImage: "assets/images/experience-page/Umbraco.jpg",
     place: "Umbraco A/S",
     time: "(May 2024 – Current)",
-    desp: "<li>Resolved customer technical issues, tested, located, and reported bugs, while creating documentation and video materials for platform technologies at scale, impacting over 10,000 users..</li> <li>Utilized C sharp, .NET, REST APIs, GraphQL, Azure, Cloudflare, HTML, CSS, JavaScript, Native Web Components, Microsoft Azure servers, and SQL databases for comprehensive support and development tasks, improving system efficiency and user satisfaction.</li>",
+    desp: "<li>Developed and optimized file upload, media management, and content delivery workflows for Umbraco CMS using ASP.NET Core, C#, and Content Delivery API, resulting in a 30% improvement in content management efficiency.</li><li>Designed and implemented GraphQL APIs and reusable web components in Umbraco, streamlining dynamic content delivery and optimizing media performance with Cloudflare, resulting in a 20% faster load time and enhanced user experience on high-traffic sites.• Developed and optimized file upload, media management, and content delivery workflows for Umbraco CMS using ASP.NET Core, C#, and Content Delivery API, resulting in a 30% improvement in content management efficiency. • Designed and implemented GraphQL APIs and reusable web components in Umbraco, streamlining dynamic content delivery and optimizing media performance with Cloudflare, resulting in a 20% faster load time and enhanced user experience on high-traffic sites.</li>",
   },
   {
     title: "Graduate Teaching Assistant",
