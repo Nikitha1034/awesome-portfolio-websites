@@ -37,7 +37,7 @@ const exp = [
     cardImage: "assets/images/experience-page/Afluence.jpg",
     place: "Affluence Infosystems",
     time: "(May 2020 - Aug 2020)",
-    desp: "<li>Assisted in developing API endpoints using SpringBoot, contributing to backend development efforts and improving response times by 15%.</li><li>Gained experience in database management by supporting the creation of validation tools for Oracle databases, reducing error rates by 10%.</li><li>Collaborated with the team to troubleshoot and debug microservices, improving performance and functionality by 25%.</li>"
+    desp: "<li>Assisted in developing API endpoints using SpringBoot, contributing to backend development efforts & improving response times by 15%.</li><li>Gained experience in database management by supporting the creation of validation tools for Oracle databases, reducing error rates by 10%.</li><li>Collaborated with the team to troubleshoot and debug microservices, improving performance and functionality by 25%.</li>"
   }
 
 ];
