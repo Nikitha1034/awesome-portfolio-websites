@@ -29,14 +29,14 @@ const exp = [
     title: "Associate Software Engineer",
     cardImage: "assets/images/experience-page/Afluence.jpg",
     place: "Affluence Infosystems",
-    time: "(May 2021 - Aug 2021)",
+    time: "(Dec 2020 - Jul 2021)",
     desp: "<li>Developed and optimized API layers using Java, SpringBoot, and GraphQL, resulting in a 30% improvement in system performance and 20% higher data accuracy through schema models for ElasticSearch and validation tools for Oracle and Postgres databases.</li><li>Enhanced observability by adding loggers, building Splunk dashboards, and utilizing Kafka and Podman for microservices, which reduced debugging time by 40%. Improved code coverage by 35% with the integration testing framework.</li><li>Built Kafka producer/consumer libraries, reducing microservice onboarding time by 50%.</li>"
   },
   {
     title: "Software Engineering Intern",
     cardImage: "assets/images/experience-page/Afluence.jpg",
     place: "Affluence Infosystems",
-    time: "(Dec 2020 - May 2021)",
+    time: "(Jan 2020 - Dec 2020)",
     desp: "<li>Assisted in developing API endpoints using SpringBoot, contributing to backend development efforts & improving response times by 15%.</li><li>Gained experience in database management by supporting the creation of validation tools for Oracle databases, reducing error rates by 10%.</li><li>Collaborated with the team to troubleshoot and debug microservices, improving performance and functionality by 25%.</li>"
   }
 
