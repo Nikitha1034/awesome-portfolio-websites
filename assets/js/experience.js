@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/Umbraco.jpg",
     place: "Umbraco A/S",
     time: "(May 2024 – Current)",
-    desp: "<li>Developed and optimized file upload, media management, and content delivery workflows for Umbraco CMS using ASP.NET Core, C#, and Content Delivery API, resulting in a 30% improvement in content management efficiency.</li><li>Designed and implemented GraphQL APIs and reusable web components in Umbraco, streamlining dynamic content delivery and optimizing media performance with Cloudflare, resulting in a 20% faster load time and enhanced user experience on high-traffic sites.</li>",
+    desp: "<li>Developed and optimized file upload, media management, and content delivery workflows for Umbraco CMS using ASP.NET Core, C#, and Content Delivery API, resulting in a 30% improvement in content management efficiency.</li><li>Architected and automated containerized environments with Docker, Kubernetes Helm, and Azure App Services, integrating CI/CD pipelines via Azure DevOps, increasing deployment efficiency by 40%.</li><li>Implemented RESTful APIs with distributed architecture and integrity validation mechanisms, integrating CI-driven unit testing, error detection, and observability with Prometheus, Grafana, and Azure Monitor, reducing incident response time by 50%.</li>",
   },
   {
     title: "Graduate Teaching Assistant",
