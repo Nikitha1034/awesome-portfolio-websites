@@ -23,7 +23,7 @@ const exp = [
     cardImage: "assets/images/experience-page/Hexagon.jpg",
     place: "Hexagon CCI Pvt. Ltd.",
     time: "(Aug 2021 – July 2023)",
-    desp: "<li>On Call Dispatch Development Team: Fixed 30-50 percent of bugs on both the front-end and back-end as a member of the On Call Dispatch development team, using tools like Eclipse and NodeJs</li><li>Front-end Development: Developed the front-end of applications using JavaScript and React JS, resulting in a 20 percent improvement in reload time and a seamless, responsive user experience.</li><li>Back-end Development: Contributed to back-end development by setting up servers, creating APIs, integrating databases, solving 6-7 bugs a month, and improving the organization’s agile processes.</li><li>Technical Stack: Used JavaScript, React JS, and CSS for front-end development, and PowerShell for automation tasks, improving 7-10 features in the project.</li>",
+    desp: "<li>On Call Dispatch Development Team: Fixed 30-50 percent of bugs on both the front-end and back-end as a member of the On Call Dispatch development team, using tools like Eclipse and NodeJs</li><li>Front-end Development: Developed the front-end of applications using JavaScript and React JS, resulting in a 20 percent improvement in reload time and a seamless, responsive user experience.</li><li>Designed and built RESTful APIs using Python (FastAPI, Flask) with PostgreSQL, implementing connection pooling and caching with Redis, reducing API response times by 25% </li><li>Developed real-time event-driven workflows using Python, integrating message queues and WebSockets for seamless data streaming and fault-tolerant processing.</li>",
   },
   {
     title: "Associate Software Engineer",
