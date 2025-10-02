@@ -12,11 +12,11 @@ const exp = [
     desp: "<li>Developed and optimized file upload, media management, and content delivery workflows for Umbraco CMS using ASP.NET Core, C#, and Content Delivery API, resulting in a 30% improvement in content management efficiency.</li><li>Architected and automated containerized environments with Docker, Kubernetes Helm, and Azure App Services, integrating CI/CD pipelines via Azure DevOps, increasing deployment efficiency by 40%.</li><li>Implemented RESTful APIs with distributed architecture and integrity validation mechanisms, integrating CI-driven unit testing, error detection, and observability with Prometheus, Grafana, and Azure Monitor, reducing incident response time by 50%.</li>",
   },
   {
-    title: "Graduate Teaching Assistant",
+    title: "Research Assistant",
     cardImage: "assets/images/experience-page/TA.jpg",
     place: "University of North Carolina at Charlotte",
     time: "(Jan 2024 - May 2024)",
-    desp: "<li>Assisted in teaching ITCS 6114 (Algorithm & Data Structures), grading assignments, and leading study sessions.</li><li>Guided students in Java-based projects, focusing on algorithm optimization and data structure implementation.</li><li>Provided individualized support, improving student comprehension of complex topics like dynamic programming and graph theory.</li> ",
+    desp: "<li>Designed and implemented a comprehensive LLM security evaluation framework using Python and Hugging Face Transformers, integrating adversarial attack simulations(FGSM, PGD) to systematically test transformer model robustness across 800+ adversarial prompts </li><li>Benchmarked multiple open-source LLMs(Llama 3, Mixtral 8x22B, DeepSeek-V2) against adversarial scenarios, measuring hallucination rates, prompt injection vulnerabilities, and attention mechanism failures, identifying critical security gaps that informed defensive fine-tuning strategies.</li><li>Optimized transformer model defenses through adversarial training and robust tokenization techniques, achieving 20% reduction in attack susceptibility and 18% improvement in classification accuracy under adversarial conditions.</li> ",
   },
   {
     title: "Software Developer",
